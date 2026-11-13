@@ -47,7 +47,7 @@ and runs silently in the background.
 ### 3. Get this project
 
 ```
-git clone https://github.com/YOUR-USERNAME/offline-ocr-screen-tool.git C:\ocr_tool
+git clone https://github.com/MHShiqder/OCR-TEXT-COPY C:\ocr_tool
 cd C:\ocr_tool
 ```
 
